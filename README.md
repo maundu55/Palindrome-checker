@@ -1,5 +1,4 @@
-
-Palindrome Algorithm
+Palindrome Algorithm  
 Following are the steps to get the Palindrome in JavaScript, as follow:
 
 Get the strings or numbers from the user.  
