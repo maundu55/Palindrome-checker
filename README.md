@@ -1,3 +1,4 @@
+
 Palindrome Algorithm
 Following are the steps to get the Palindrome in JavaScript, as follow:
 
